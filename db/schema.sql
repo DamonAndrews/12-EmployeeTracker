@@ -33,6 +33,7 @@ CREATE TABLE employee (
 );
 
 
-// db.query('SELECT * FROM department', 
-                //     function (err, res) {
-                //         console.table(res)})
+
+-- // db.query('SELECT * FROM department', 
+--                 //     function (err, res) {
+--                 //         console.table(res)})
