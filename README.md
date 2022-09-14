@@ -18,3 +18,6 @@ https://drive.google.com/file/d/1xXXxiE7sGtwikOri7q31GSvHD9OJvm9o/view
 
 
 Thanks!
+
+
+![employee_tracker_screenshot](https://user-images.githubusercontent.com/107002411/190227164-a058c64e-5e01-410f-87a7-62d275e1337e.jpg)
